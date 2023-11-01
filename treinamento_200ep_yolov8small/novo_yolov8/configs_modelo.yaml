@@ -1,0 +1,6 @@
+path: '/Users/FINDES/Desktop/novo_yolov8/dataset'
+train: 'train/'
+val: 'val/'
+
+nc: 1
+names: ['operador']
